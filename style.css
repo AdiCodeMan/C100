@@ -1,0 +1,81 @@
+#selfie1,#selfie2,#selfie3
+{
+    width: 40%;
+}
+
+#space
+{
+    width: 50px;
+}
+
+#label
+{
+    text-size-adjust: 200px;
+}
+
+#logo_img
+{
+    width: 100px;
+}
+
+h1{
+    font-family: "Yeon Sung";
+    font-style: italic;
+    font-weight: bold;
+    width: 100%;
+    background-color: lightcoral;
+    border-radius: 140px;
+}
+
+body
+{
+    background-color:lightblue;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 5%;
+    text-align: center;
+    background-color: white;
+    font-size: large;
+    font-family: "Yeon Sung";
+}
+
+img
+{
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    border-color: antiquewhite;
+    border-width: 20px;
+    border-style: double;
+
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+#result3{
+    padding: 5px;
+}
+
+#camera
+{
+    width:330px;
+    height: 250px;
+    border-width: 10px;
+    border-style:double;
+    border-color:antiquewhite;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+#textbox
+{
+    width: 35%;
+}
+#labelselfie
+{
+    padding:5px;
+}
